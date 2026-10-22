@@ -100,3 +100,7 @@ contributions.
 - Be decent to each other. Assume good faith, keep it constructive.
 
 By contributing, you agree your contributions are licensed under the project's [MIT License](LICENSE).
+
+
+## Branching Policy
+All feature work must use feature branches and integrate via dev.
